@@ -4,9 +4,8 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/tweastly.com-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://tweastly.com)
-[![Twitter](https://img.shields.io/badge/@tweastly-111111?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tweastly)
-[![Discord](https://img.shields.io/badge/Discord-FF5722?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tweastly)
+[![Website](https://img.shields.io/badge/tweastly.xyz-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://tweastly.xyz)
+[![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=FF5722)](https://discord.gg/tweastly)
 
 </div>
 
