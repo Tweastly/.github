@@ -1,100 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1DA1F2&height=200&section=header&text=Tweatly&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Smarter%20Twitter%20Analytics%2C%20Built%20for%20Everyone&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF5722&height=180&text=TWEASTLY&fontSize=72&fontColor=ffffff&fontAlignY=55&desc=We%20build%20web%20apps%20that%20work.&descAlignY=78&descSize=16&fontFamily=monospace" width="100%" />
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tweatly)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tweatly.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tweatly)
+<br/>
 
-</div>
-
----
-
-## What is Tweatly?
-
-Tweatly is an open-source Twitter/X analytics and automation platform that helps creators, brands, and developers get deeper insights from their social presence — without the noise.
-
-- **Analytics** — Track impressions, engagement, follower growth, and top-performing content over time
-- **Scheduling** — Plan and queue tweets with an intuitive calendar interface
-- **Automation** — Set up smart rules to engage with your audience at the right moment
-- **API** — Build on top of Tweatly with a clean REST and WebSocket API
-
----
-
-## Tech Stack
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+[![Website](https://img.shields.io/badge/tweastly.com-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://tweastly.com)
+[![Twitter](https://img.shields.io/badge/@tweastly-111111?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tweastly)
+[![Discord](https://img.shields.io/badge/Discord-FF5722?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tweastly)
 
 </div>
 
 ---
 
-## Repositories
-
-| Repo | Description |
-|------|-------------|
-| [tweatly-app](https://github.com/tweatly/tweatly-app) | Core web application — dashboard, scheduling, analytics UI |
-| [tweatly-api](https://github.com/tweatly/tweatly-api) | REST & WebSocket API powering all Tweatly products |
-| [tweatly-worker](https://github.com/tweatly/tweatly-worker) | Background job runner for scheduled tasks and automations |
-| [tweatly-sdk](https://github.com/tweatly/tweatly-sdk) | Official TypeScript/JavaScript SDK |
-| [tweatly-docs](https://github.com/tweatly/tweatly-docs) | Public documentation site |
-
----
-
-## Getting Started
-
-```bash
-# Clone the app
-git clone https://github.com/tweatly/tweatly-app.git
-cd tweatly-app
-
-# Install dependencies
-pnpm install
-
-# Set up environment
-cp .env.example .env.local
-
-# Start local dev server
-pnpm dev
+```
+  ████████╗██╗    ██╗███████╗ █████╗ ███████╗████████╗██╗  ██╗   ██╗
+     ██╔══╝██║    ██║██╔════╝██╔══██╗██╔════╝╚══██╔══╝██║  ╚██╗ ██╔╝
+     ██║   ██║ █╗ ██║█████╗  ███████║███████╗   ██║   ██║   ╚████╔╝
+     ██║   ██║███╗██║██╔══╝  ██╔══██║╚════██║   ██║   ██║    ╚██╔╝
+     ██║   ╚███╔███╔╝███████╗██║  ██║███████║   ██║   ███████╗██║
+     ╚═╝    ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝
 ```
 
-Full setup guide: [docs.tweatly.com/self-hosting](https://docs.tweatly.com/self-hosting)
+---
+
+## // WHAT WE DO
+
+Tweastly est un studio de développement web axé sur la création d'applications web modernes, rapides et centrées sur l'utilisateur. On conçoit, on code, on livre.
+
+- **Web Apps** — Des applications pensées pour durer, de la landing page au SaaS complet
+- **UI/UX** — Des interfaces qui convertissent et qui donnent envie de revenir
+- **Performance** — Du code optimisé, des temps de chargement au minimum
+- **Open Source** — On donne en retour a la communaute qui nous a construit
 
 ---
 
-## Contributing
+## // STACK
 
-We welcome contributions of all sizes — bug fixes, new features, documentation, and ideas.
+<div align="center">
 
-1. Fork the repo you want to contribute to
-2. Create a branch: `git checkout -b feat/your-feature`
-3. Commit your changes and open a Pull Request
-4. A maintainer will review within 48 hours
+![TypeScript](https://img.shields.io/badge/TypeScript-FF5722?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=FF5722)
+![Next.js](https://img.shields.io/badge/Next.js-FF5722?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=FF5722)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF5722?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=FF5722)
+![Vercel](https://img.shields.io/badge/Vercel-FF5722?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=FF5722)
 
-See [CONTRIBUTING.md](https://github.com/tweatly/.github/blob/main/CONTRIBUTING.md) for full guidelines.
+</div>
 
 ---
 
-## Community
+## // PROJECTS
 
-- **Discord** — [discord.gg/tweatly](https://discord.gg/tweatly) — chat with the team and other users
-- **Discussions** — [github.com/orgs/tweatly/discussions](https://github.com/orgs/tweatly/discussions) — ideas, Q&A, and announcements
-- **X / Twitter** — [@tweatly](https://twitter.com/tweatly) — product updates and release notes
+| Projet | Description | Status |
+|--------|-------------|--------|
+| [tweastly-ui](https://github.com/Tweastly/tweastly-ui) | Design system & composants partagés | `active` |
+| [tweastly-web](https://github.com/Tweastly/tweastly-web) | Site vitrine principal | `active` |
+| [tweastly-boilerplate](https://github.com/Tweastly/tweastly-boilerplate) | Starter kit Next.js pour nos projets | `active` |
+
+---
+
+## // CONTRIBUTE
+
+Le code est ouvert. Les idées aussi.
+
+```bash
+# Fork → Clone → Branch → Push → PR
+git clone https://github.com/Tweastly/<repo>.git
+git checkout -b feat/your-idea
+# code, commit, open a PR — on reviendra vers toi
+```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1DA1F2&height=100&section=footer" width="100%" />
-
-Made with care by the Tweatly team and contributors worldwide.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=60&text=TWEASTLY%20%2F%2F%20BUILD%20DIFFERENT&fontSize=14&fontColor=FF5722&fontFamily=monospace" width="100%" />
 
 </div>
